@@ -1,0 +1,13 @@
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.b2d p {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
